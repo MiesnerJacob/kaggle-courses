@@ -5,3 +5,5 @@ Micro-courses completed:
 
 * Pandas
 * Natural Language Processing (w/ SpaCy & Sci-kit)
+* Python
+* Intro to Machine Learning
