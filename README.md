@@ -3,7 +3,10 @@ These are all of the practice problems/mini-courses I have completed while trave
 
 Micro-courses completed:
 
-* Pandas
-* Natural Language Processing (w/ SpaCy & Sci-kit)
 * Python
-* Intro to Machine Learning
+* Pandas
+* Data Visualization (Matplotlib & Seaborn)
+* Natural Language Processing (w/ SpaCy & Sci-kit)
+* Intro to Machine Learning (Sci-kit)
+* Intermediate Machine Learning (Scikit & XGBoost)
+* Intro to Deep Learning (Keras)
