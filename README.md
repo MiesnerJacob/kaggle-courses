@@ -7,7 +7,8 @@ Micro-courses completed:
 * Pandas
 * Intro to SQL
 * Data Visualization (Matplotlib & Seaborn)
-* Natural Language Processing (w/ SpaCy & Sci-kit)
 * Intro to Machine Learning (Sci-kit)
 * Intermediate Machine Learning (Scikit & XGBoost)
 * Intro to Deep Learning (Keras)
+* Natural Language Processing (w/ SpaCy & Sci-kit)
+* Computer Vision (Keras)
