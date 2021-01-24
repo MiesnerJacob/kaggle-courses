@@ -5,7 +5,9 @@ Micro-courses completed:
 
 * Python
 * Pandas
+* Data Cleaning
 * Intro to SQL
+* Advanced SQL
 * Data Visualization (Matplotlib & Seaborn)
 * Intro to Machine Learning (Sci-kit)
 * Intermediate Machine Learning (Scikit & XGBoost)
