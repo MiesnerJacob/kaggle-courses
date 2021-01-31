@@ -14,3 +14,4 @@ Micro-courses completed:
 * Intro to Deep Learning (Keras)
 * Natural Language Processing (w/ SpaCy & Sci-kit)
 * Computer Vision (Keras)
+* Geospatial Analysis (Geopandas & Folium)
