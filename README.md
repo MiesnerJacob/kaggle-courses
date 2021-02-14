@@ -15,3 +15,4 @@ Micro-courses completed:
 * Natural Language Processing (w/ SpaCy & Sci-kit)
 * Computer Vision (Keras)
 * Geospatial Analysis (Geopandas & Folium)
+* Machine Learning Explainability (eli5 & PDP & SHAP)
