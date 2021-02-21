@@ -16,3 +16,4 @@ Micro-courses completed:
 * Computer Vision (Keras)
 * Geospatial Analysis (Geopandas & Folium)
 * Machine Learning Explainability (eli5 & PDP & SHAP)
+* Intro to Game AI and Reinforcement Learning (Tensorflow & stable-baselines)
