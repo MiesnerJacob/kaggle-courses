@@ -9,6 +9,7 @@ Micro-courses completed:
 * Intro to SQL
 * Advanced SQL
 * Data Visualization (Matplotlib & Seaborn)
+* Feature Engineering (Sci-kit)
 * Intro to Machine Learning (Sci-kit)
 * Intermediate Machine Learning (Scikit & XGBoost)
 * Intro to Deep Learning (Keras)
@@ -17,3 +18,4 @@ Micro-courses completed:
 * Geospatial Analysis (Geopandas & Folium)
 * Machine Learning Explainability (eli5 & PDP & SHAP)
 * Intro to Game AI and Reinforcement Learning (Tensorflow & stable-baselines)
+* Microchallenges
